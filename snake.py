@@ -18,7 +18,7 @@ food_color = (255, 69, 0)              # Food color
 
 
 dis = pygame.display.set_mode((main_width, main_height))
-pygame.display.set_caption("Snake Game with Score Panel")
+pygame.display.set_caption("Snake Game")
 
 font = pygame.font.SysFont(None, 30)
 
